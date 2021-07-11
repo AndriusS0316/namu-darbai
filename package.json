@@ -1,7 +1,6 @@
 {
   "name": "namu-darbai",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "namu-darbai": "live-server --port=3001",
@@ -13,5 +12,14 @@
   "dependencies": {},
   "devDependencies": {
     "live-server": "^1.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriusS0316/namu-darbai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AndriusS0316/namu-darbai/issues"
+  },
+  "homepage": "https://github.com/AndriusS0316/namu-darbai#readme",
+  "description": ""
 }
