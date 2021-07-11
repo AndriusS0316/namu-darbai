@@ -1,3 +1,5 @@
+// antra uzduotis
+
 const allIngredientsND = document.querySelectorAll('li');
 
 const darzoves = [];
