@@ -1,2 +1,0 @@
-//trecia uzduotis
-
